@@ -27,7 +27,7 @@
 10. Конец.
 
 ### Блок-схема
-![Блок-схема, созданная в draw.io]( homeworkrab6.drawio.png )
+![Блок-схема, созданная в draw.io]( rab6.drawio.png )
 https://drive.google.com/file/d/18XlyNcJNrBaoFc98tCD9D1WBiwFaRYLp/view?usp=sharing
 ## 2. Реализация программы
 ```c
